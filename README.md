@@ -1,0 +1,1 @@
+Holiday Hangman is a classic take on the popular game with a festive twist. The user can choose to play from three different difficulty levels. The words are pulled from a pre-programmed list in the code. The user is given six opportunites to guess wrong, but can choose to play again if they wish. Have fun playing and Happy Holidays!
